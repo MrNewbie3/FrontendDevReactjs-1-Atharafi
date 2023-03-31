@@ -1,0 +1,1271 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1680142033678,
+  "data": {
+    "totalRecords": "13920",
+    "totalPages": 464,
+    "data": [
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d2034920-Reviews-Namak-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0b/58/1d/b7/namak.jpg",
+        "heroImgRawHeight": 378,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 2034920,
+        "name": "Namak",
+        "averageRating": 5,
+        "userReviewCount": 616,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Amazing authentic <b>Indian</b> food.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d2034920-r871699739-Namak-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;... <b>Biryani</b> in Mains and Seb ka Halwa, ...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d2034920-r865255875-Namak-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d1008614-Reviews-Mabruk-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0b/55/a9/05/mabruk-the-mediterranean.jpg",
+        "heroImgRawHeight": 367,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 1008614,
+        "name": "Mabruk",
+        "averageRating": 5,
+        "userReviewCount": 643,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Lebanese", "Mediterranean"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;... us he suggested mezze platter and <b>lamb</b> dish it was amazing...a must visit...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1008614-r882045875-Mabruk-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Mezze Platter, <b>Tagine</b> Khador and Baklava were delicious.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1008614-r868212279-Mabruk-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d21511592-Reviews-Rasoi_Kitchen_Bar-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-p/28/20/83/be/caption.jpg",
+        "heroImgRawHeight": 733,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 21511592,
+        "name": "Rasoi Kitchen & Bar",
+        "averageRating": 5,
+        "userReviewCount": 187,
+        "currentOpenStatusCategory": "",
+        "currentOpenStatusText": "",
+        "establishmentTypeAndCuisineTags": ["Indian", "Middle Eastern"],
+        "priceTag": "$$ - $$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;... Chicken and Keema along with <b>Garlic Naan</b>! Rabdi was rich in quality.. gul...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d21511592-r880660485-Rasoi_Kitchen_Bar-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;... Rasoi Chaap - over night cooked <b>lamb</b> with smoked tandoori flavor with mas...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d21511592-r868685262-Rasoi_Kitchen_Bar-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d10338075-Reviews-EAST_EAST_ASIAN_SPICE_TRAIL-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/13/75/e0/live-teppanyaki-counter.jpg",
+        "heroImgRawHeight": 366,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 10338075,
+        "name": "EAST-EAST ASIAN SPICE TRAIL",
+        "averageRating": 5,
+        "userReviewCount": 559,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Asian", "Chinese"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;... mind boggling and amazing <b>Asian food</b> which I&#39;ve not eaten anywhere else b...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d10338075-r879186283-EAST_EAST_ASIAN_SPICE_TRAIL-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;... with our 2 year old and ordered Cantonese bai fan and Vietnamese fried <b>tofu</b>.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d10338075-r871162391-EAST_EAST_ASIAN_SPICE_TRAIL-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d2034948-Reviews-The_Earth_Plate-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6c/8a/fc/salad-counter.jpg",
+        "heroImgRawHeight": 367,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 2034948,
+        "name": "The Earth Plate",
+        "averageRating": 5,
+        "userReviewCount": 762,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Chinese"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;The Agra Chaat, <b>Chinese</b> Counter and North Indian Counter were my favourites.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d2034948-r849978502-The_Earth_Plate-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;... And lot more - China town Hakka <b>noodles</b> Paneer chili Fried rice - kebab c...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d2034948-r849796168-The_Earth_Plate-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d15223662-Reviews-Ummrao-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1b/50/97/63/friends-having-a-good.jpg",
+        "heroImgRawHeight": 367,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 15223662,
+        "name": "Ummrao",
+        "averageRating": 5,
+        "userReviewCount": 343,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://lnk.bio/courtyardmumbai",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;The Hyderabadi Dum biryani was great, as was the prawn <b>curry</b>.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d15223662-r832627804-Ummrao-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Achari Jhinga (Pickle and black pepper <b>prawns</b>, Ummro avatar-e-Ghost Halim) wa...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d15223662-r824436749-Ummrao-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d804433-Reviews-Kebabs_Kurries-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/19/3c/c2/49/interiors-at-k-k.jpg",
+        "heroImgRawHeight": 413,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 804433,
+        "name": "Kebabs & Kurries",
+        "averageRating": 5,
+        "userReviewCount": 1045,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcgrandcentral-mumbai/documents/ITC-Grand-Central-KnK-Food-Menu.pdf",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Birthday evening&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d804433-r882177485-Kebabs_Kurries-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Perfect advise from the team. Went for...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d804433-r880216200-Kebabs_Kurries-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d13325105-Reviews-Tanatan-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-p/11/aa/49/ad/img20171221202836-largejpg.jpg",
+        "heroImgRawHeight": 733,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 13325105,
+        "name": "Tanatan",
+        "averageRating": 5,
+        "userReviewCount": 430,
+        "currentOpenStatusCategory": "",
+        "currentOpenStatusText": "",
+        "establishmentTypeAndCuisineTags": ["Indian", "Bar"],
+        "priceTag": "$$ - $$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;... creamy and made to perfection! Butter Garlic naan was cherry on the <b>cake</b> !&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d13325105-r863310414-Tanatan-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;pondi to mumbai - it was a refreshing cucumber <b>juice</b>,chilled refreshing sour...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d13325105-r880693730-Tanatan-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d21387580-Reviews-Fiona-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/28/a0/41/de/caption.jpg",
+        "heroImgRawHeight": 412,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 21387580,
+        "name": "Fiona",
+        "averageRating": 5,
+        "userReviewCount": 432,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["Italian", "Chinese"],
+        "priceTag": "$$ - $$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Omkar is very good service he suggested dome thai <b>curry</b> and noodles with vege...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d21387580-r876311322-Fiona-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;<b>Christmas</b> Dinner at Radisson blu&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d21387580-r779906792-Fiona-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d8010527-Reviews-Saptami-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/de/2b/38/photo2jpg.jpg",
+        "heroImgRawHeight": 413,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 8010527,
+        "name": "Saptami",
+        "averageRating": 5,
+        "userReviewCount": 763,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Healthy"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Great experience&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d8010527-r883897203-Saptami-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Excellent&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d8010527-r883873219-Saptami-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d1370074-Reviews-Dakshin_Coastal-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/02/b5/66/6b/dakshin-itc-grand-maratha.jpg",
+        "heroImgRawHeight": 448,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 1370074,
+        "name": "Dakshin Coastal",
+        "averageRating": 4.5,
+        "userReviewCount": 311,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Super&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1370074-r883594163-Dakshin_Coastal-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Great experience at Dakshin coastal&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1370074-r883166775-Dakshin_Coastal-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d16845556-Reviews-Yeda_Republic-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-p/16/e9/d3/02/yeda-republic.jpg",
+        "heroImgRawHeight": 735,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 16845556,
+        "name": "Yeda Republic",
+        "averageRating": 5,
+        "userReviewCount": 207,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Bar"],
+        "priceTag": "$$ - $$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;... hint of garlic and olive oil, <b>hummus</b> with pita bread which had falafel, p...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d16845556-r870841985-Yeda_Republic-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;... Mains Exotic veg pizza Schewan <b>fried rice</b> Dessert Brownie with ice cream ...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d16845556-r864345272-Yeda_Republic-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d5998754-Reviews-Ark_Bar-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/19/28/5d/bar-counter.jpg",
+        "heroImgRawHeight": 366,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 5998754,
+        "name": "Ark Bar",
+        "averageRating": 5,
+        "userReviewCount": 555,
+        "currentOpenStatusCategory": "",
+        "currentOpenStatusText": "",
+        "establishmentTypeAndCuisineTags": ["Bar", "Pub"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Great music and <b>amazing cocktails</b>&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d5998754-r844592119-Ark_Bar-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Ark Bar - <b>Beers</b> and Food.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d5998754-r873757601-Ark_Bar-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d6929570-Reviews-By_the_Mekong-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/21/59/55/0f/by-the-mekong-lounge.jpg",
+        "heroImgRawHeight": 324,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 6929570,
+        "name": "By the Mekong",
+        "averageRating": 4.5,
+        "userReviewCount": 606,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Chinese", "Asian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://online.fliphtml5.com/lkvwf/bruc/",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;... soup which was delicately flavoured broth and with melt in mouth <b>dumplings</b>.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d6929570-r870906368-By_the_Mekong-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;... fish nice dim sums nice mocktails nice coctails nice rice nice <b>fried rice</b>&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d6929570-r867588373-By_the_Mekong-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": true,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d1097143-Reviews-Shanghai_Club-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/19/3c/bf/71/ambiance-at-shanghai.jpg",
+        "heroImgRawHeight": 367,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 1097143,
+        "name": "Shanghai Club",
+        "averageRating": 5,
+        "userReviewCount": 313,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Chinese", "Asian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcgrandcentral-mumbai/documents/ITC-Grand-Central-shanghai-food.pdf",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Followed by a pork dish from the Hunan region served with <b>rice</b>.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1097143-r877103989-Shanghai_Club-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;... chills and garlic… the tiger <b>prawns</b> were so tender even though fried, the...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1097143-r816615484-Shanghai_Club-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d1014520-Reviews-Peshawri-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/f1/95/d3/peshawri.jpg",
+        "heroImgRawHeight": 412,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 1014520,
+        "name": "Peshawri",
+        "averageRating": 4.5,
+        "userReviewCount": 2122,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;The <b>vegetarian</b> food is next level, espe...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1014520-r861870142-Peshawri-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Swakit recommended the best <b>vegetarian</b>...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1014520-r858031622-Peshawri-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d15532332-Reviews-Manuhaar_The_Taste_of_Tradition-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/19/4c/ca/df/img-20190916-150840-largejpg.jpg",
+        "heroImgRawHeight": 413,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 15532332,
+        "name": "Manuhaar- The Taste of Tradition",
+        "averageRating": 5,
+        "userReviewCount": 369,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Authentic <b>Indian</b> Thali with fantastic s...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d15532332-r826893483-Manuhaar_The_Taste_of_Tradition-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Lovely dinner with amazing veg <b>thali</b>&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d15532332-r823718684-Manuhaar_The_Taste_of_Tradition-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d3268182-Reviews-Nawab_Saheb-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/23/8a/44/f7/royal-and-traditional.jpg",
+        "heroImgRawHeight": 367,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 3268182,
+        "name": "Nawab Saheb",
+        "averageRating": 5,
+        "userReviewCount": 994,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://drive.google.com/drive/folders/1BY4WtV-M5zmaIiZ_I5MXHf0nnDd4IWrH?usp=sharing",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;<b>Family Dinner</b>&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d3268182-r866426637-Nawab_Saheb-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Very clean delicious Indian food, chicken bryani and seekh <b>kebab</b> so delicious.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d3268182-r864124752-Nawab_Saheb-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d19428928-Reviews-Tanatan-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1a/95/35/ca/img-20200112-052117-459.jpg",
+        "heroImgRawHeight": 413,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 19428928,
+        "name": "Tanatan",
+        "averageRating": 5,
+        "userReviewCount": 297,
+        "currentOpenStatusCategory": "",
+        "currentOpenStatusText": "",
+        "establishmentTypeAndCuisineTags": ["Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;We recommend you to try: 1. Gulkand <b>Cheesecake</b> : Delicious <b>cheesecake</b> with an...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d19428928-r878624894-Tanatan-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;The minor gulkand taste with the taste of <b>cheesecake</b> was perfectly balanced a...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d19428928-r872382119-Tanatan-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d17728654-Reviews-Citrus_Cafe-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/18/2d/d5/bb/getlstd-property-photo.jpg",
+        "heroImgRawHeight": 367,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 17728654,
+        "name": "Citrus Cafe",
+        "averageRating": 5,
+        "userReviewCount": 115,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["Italian", "Indian"],
+        "priceTag": "$$ - $$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://www.zomato.com/mumbai/citrus-cafe-near-andheri-east-station/menu",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;We ordered <b>nan</b> and juice .Service is exceptional .Vinay and raj had taken us...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d17728654-r839745975-Citrus_Cafe-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;... in the morning for breakfast.The food was good more of South <b>Indian</b> food.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d17728654-r781714547-Citrus_Cafe-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d786941-Reviews-Hornby_s_Pavilion-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/19/eb/93/c3/hornby-s-pavilion.jpg",
+        "heroImgRawHeight": 413,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 786941,
+        "name": "Hornby's Pavilion",
+        "averageRating": 5,
+        "userReviewCount": 747,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Asian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcgrandcentral-mumbai/documents/ITCGrandCentral-HornbysPavilion-Food.pdf",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Specially Thai shrimp <b>curry</b> &amp; jasmine rice.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d786941-r877202659-Hornby_s_Pavilion-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Not in menu but we asked as has been earlier for green thai <b>curry</b> and were ha...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d786941-r873856796-Hornby_s_Pavilion-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d17609451-Reviews-Gallery_Cafe-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1a/03/7b/5b/gallery-cafe-the-global.jpg",
+        "heroImgRawHeight": 450,
+        "heroImgRawWidth": 457,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 17609451,
+        "name": "Gallery Cafe",
+        "averageRating": 5,
+        "userReviewCount": 225,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Healthy"],
+        "priceTag": "$$ - $$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://www.zomato.com/mumbai/gallery-caf%25C3%25A9-near-andheri-east-station/menu",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;<b>Salad</b> options were great too and the multicuisine choices were just perfect f...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d17609451-r872916002-Gallery_Cafe-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;i.e <b>Fish Curry</b>, Hyderabadi Chicken, Paneer Tikka, etcetera etc.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d17609451-r842777562-Gallery_Cafe-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d1957837-Reviews-Lake_View_Cafe-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/14/3a/6c/44/lake-view-cafe.jpg",
+        "heroImgRawHeight": 367,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 1957837,
+        "name": "Lake View Cafe",
+        "averageRating": 4.5,
+        "userReviewCount": 1404,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Cafe"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://drive.google.com/drive/folders/1ZgVXcO3stHXHNXyOgE4xesdHsPF7z2Zk?usp=sharing",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Birthday high <b>tea</b>&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1957837-r859918340-Lake_View_Cafe-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Must try spring onion, potato salad with olives, channa <b>chaat</b>, jalebis and poha.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1957837-r843897450-Lake_View_Cafe-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d5913048-Reviews-Peshwa_Pavilion-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-w/05/a4/79/b6/peshwa-pavilion.jpg",
+        "heroImgRawHeight": 1365,
+        "heroImgRawWidth": 1024,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 5913048,
+        "name": "Peshwa Pavilion",
+        "averageRating": 5,
+        "userReviewCount": 1171,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Asian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Amazing food with lots of varieties and ethnic <b>Indian</b> taste.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d5913048-r849258120-Peshwa_Pavilion-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;The <b>dosa</b> was very tasty, the Coffee is great, there was a decent choice and y...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d5913048-r852926875-Peshwa_Pavilion-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d7273778-Reviews-The_Sahib_Room_Kipling_Bar-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1a/8f/5d/c0/inspired-by-the-opulence.jpg",
+        "heroImgRawHeight": 359,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 7273778,
+        "name": "The Sahib Room & Kipling Bar",
+        "averageRating": 4.5,
+        "userReviewCount": 355,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;<b>Best indian</b> food&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d7273778-r850642146-The_Sahib_Room_Kipling_Bar-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Everything is exceptional from the kebabs to <b>curries</b>.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d7273778-r855074678-The_Sahib_Room_Kipling_Bar-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": true,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d809446-Reviews-Pan_Asian-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/02/b5/66/a5/pan-asian.jpg",
+        "heroImgRawHeight": 450,
+        "heroImgRawWidth": 337,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 809446,
+        "name": "Pan Asian",
+        "averageRating": 5,
+        "userReviewCount": 410,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Chinese", "Sushi"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;The soup, the <b>sushi</b>, the main course and the dessert, all were top notch.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d809446-r869947061-Pan_Asian-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Absolutely the best <b>Chinese</b> food in Mumbai!&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d809446-r869060916-Pan_Asian-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d11686244-Reviews-MoMo_Cafe-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-p/0a/19/1d/7f/momo-cafe.jpg",
+        "heroImgRawHeight": 823,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 11686244,
+        "name": "MoMo Cafe",
+        "averageRating": 4.5,
+        "userReviewCount": 588,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Cafe"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://bit.ly/2zVGbG0",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Great vanilla <b>ice cream</b> as always in India Tomato soup tasty but also spicy w...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d11686244-r864893719-MoMo_Cafe-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Good variety of pastries offered in desert with 3 flavours of <b>ice-cream</b>.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d11686244-r823347776-MoMo_Cafe-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d1202559-Reviews-It_s_Mirchi-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/bd/f3/7c/it-s-mirchi.jpg",
+        "heroImgRawHeight": 365,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 1202559,
+        "name": "It's Mirchi",
+        "averageRating": 4.5,
+        "userReviewCount": 213,
+        "currentOpenStatusCategory": "CLOSED",
+        "currentOpenStatusText": "Closed Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Chinese"],
+        "priceTag": "$$ - $$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": false,
+        "menuUrl": null,
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Enjoyed having this cocktail with <b>Chicken tikka</b>.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1202559-r871151403-It_s_Mirchi-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;... 1. Mezze Platter It came with pita bread, hummus, tzatziki dip and <b>falafel</b>.&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1202559-r849342404-It_s_Mirchi-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d1139260-Reviews-Shamiana-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/f3/d8/b4/shamiana.jpg",
+        "heroImgRawHeight": 350,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 1139260,
+        "name": "Shamiana",
+        "averageRating": 4.5,
+        "userReviewCount": 602,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["American", "Indian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "http://taj.tajhotels.com/en-in/taj-mahal-palace-mumbai/restaurants/shamiana-restaurant/#mr-menu-carousel",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Try auditioning trough their Bionic <b>Burger</b> first !&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1139260-r855678885-Shamiana-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;Excellent Staff And Hospitality And Food&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1139260-r883032438-Shamiana-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      },
+      {
+        "restaurantsId": "Restaurant_Review-g304554-d1812889-Reviews-Fifty_Five_East_Grand_Hyatt_Mumbai_Hotel_and_Residences-Mumbai_Maharashtra",
+        "heroImgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/ad/8e/ca/55-east.jpg",
+        "heroImgRawHeight": 335,
+        "heroImgRawWidth": 550,
+        "squareImgUrl": "",
+        "squareImgRawLength": 0,
+        "locationId": 1812889,
+        "name": "Fifty Five East - Grand Hyatt Mumbai Hotel and Residences",
+        "averageRating": 4.5,
+        "userReviewCount": 643,
+        "currentOpenStatusCategory": "OPEN",
+        "currentOpenStatusText": "Open Now",
+        "establishmentTypeAndCuisineTags": ["Indian", "Asian"],
+        "priceTag": "$$$$",
+        "offers": {
+          "slot1Offer": null,
+          "slot2Offer": null
+        },
+        "hasMenu": true,
+        "menuUrl": "https://hyattrestaurants.com/en/dining/india/mumbai/fifty-five-east-restaurant-menu#60e2c0704bfcfa01083408b2",
+        "isDifferentGeo": false,
+        "parentGeoName": "Mumbai",
+        "distanceTo": "",
+        "reviewSnippets": {
+          "reviewSnippetsList": [
+            {
+              "reviewText": "&#x201c;Great ambience, Lovely people and Delicious <b>spread</b> make the dining experience...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1812889-r846030107-Fifty_Five_East_Grand_Hyatt_Mumbai_Hotel_and_Residences-Mumbai_Maharashtra.html"
+            },
+            {
+              "reviewText": "&#x201c;<b>Special mention</b> of Nobeed Shaikh for making the excellent arrangements along...&#x201d;",
+              "reviewUrl": "/ShowUserReviews-g304554-d1812889-r868402044-Fifty_Five_East_Grand_Hyatt_Mumbai_Hotel_and_Residences-Mumbai_Maharashtra.html"
+            }
+          ]
+        },
+        "awardInfo": null,
+        "isLocalChefItem": false,
+        "isPremium": false,
+        "isStoryboardPublished": false,
+        "detailedReview": null
+      }
+    ]
+  }
+}
